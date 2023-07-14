@@ -289,7 +289,7 @@ const projects = [
         ],
         image: sql,
         source_code_link: "https://github.com/userIssa/lets-leave",
-        live_site: 'https://github.com/userIssa/lets-leav'
+        live_site: 'https://github.com/userIssa/lets-leave'
     },
 ];
 
